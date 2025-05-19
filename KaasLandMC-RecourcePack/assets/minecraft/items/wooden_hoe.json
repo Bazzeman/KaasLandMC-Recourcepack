@@ -1,0 +1,14 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/wooden_hoe"
+        },
+        "cases": [
+            {"when": "screw_driver", "model": {"type": "model", "model": "item/screw_driver"}}
+        ]
+    }
+}
+

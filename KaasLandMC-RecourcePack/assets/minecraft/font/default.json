@@ -1,0 +1,37 @@
+{
+  "providers": [
+    {"chars": ["\uF801"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": -3},
+    {"chars": ["\uF802"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": -4},
+    {"chars": ["\uF803"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": -5},
+    {"chars": ["\uF804"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": -6},
+    {"chars": ["\uF805"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": -7},
+    {"chars": ["\uF808"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": -10},
+    {"chars": ["\uF809"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": -18},
+    {"chars": ["\uF80A"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": -34},
+    {"chars": ["\uF80B"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": -66},
+    {"chars": ["\uF80C"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": -130},
+    {"chars": ["\uF80D"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": -259},
+    {"chars": ["\uF80E"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": -515},
+    {"chars": ["\uF80F"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": -1027},
+    {"chars": ["\uF822"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": 1},
+    {"chars": ["\uF823"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": 2},
+    {"chars": ["\uF824"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": 3},
+    {"chars": ["\uF825"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": 4},
+    {"chars": ["\uF826"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": 5},
+    {"chars": ["\uF827"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": 6},
+    {"chars": ["\uF828"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": 7},
+    {"chars": ["\uF829"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": 15},
+    {"chars": ["\uF82A"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": 31},
+    {"chars": ["\uF82B"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": 63},
+    {"chars": ["\uF82C"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": 127},
+    {"chars": ["\uF82D"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": 256},
+    {"chars": ["\uF82E"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": 512},
+    {"chars": ["\uF82F"], "file": "font/base/blank.png",                    "ascent": -5000, "type": "bitmap", "height": 1024},
+
+    {"chars": ["\ue401"], "file": "font/custom/gui/locker/picker.png",      "ascent": 13,    "type": "bitmap", "height": 91},
+    {"chars": ["\ue402"], "file": "font/custom/gui/locker/lock_stage1.png", "ascent": -7,    "type": "bitmap", "height": 68},
+    {"chars": ["\ue403"], "file": "font/custom/gui/locker/lock_stage2.png", "ascent": -7,    "type": "bitmap", "height": 68},
+    {"chars": ["\ue404"], "file": "font/custom/gui/locker/lock_stage3.png", "ascent": -7,    "type": "bitmap", "height": 68},
+    {"chars": ["\ue405"], "file": "font/custom/gui/locker/picker_stick.png", "ascent": -48,    "type": "bitmap", "height": 7}
+  ]
+}

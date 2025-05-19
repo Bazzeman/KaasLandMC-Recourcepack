@@ -1,0 +1,18 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/flint"
+        },
+        "cases": [
+            {"when": "iron_lock", "model": {"type": "model", "model": "item/iron_lock"}},
+            {"when": "iron_lock_picker", "model": {"type": "model", "model": "item/iron_lock_picker"}},
+            {"when": "iron_key", "model": {"type": "model", "model": "item/iron_key"}},
+            {"when": "next_arrow", "model": {"type": "model", "model": "item/next_arrow"}},
+            {"when": "previous_arrow", "model": {"type": "model", "model": "item/previous_arrow"}}
+        ]
+    }
+}
+
